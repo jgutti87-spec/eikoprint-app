@@ -11,7 +11,7 @@ import {
 } from "recharts";
 import supabase from "./lib/supabase";
 import Layout from "./components/Layout";
-import Sidebar from "./components/Sidebar";
+
 
 const emptyProductForm = {
   name: "",
